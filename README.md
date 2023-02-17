@@ -6,5 +6,9 @@
 * A demonstration of applying CI - Continuous Integration process based on GitHub Actions and Ant build tool
 * ...
 
+### Screenshot
+https://github.com/envymilo/mathutil-ant-se1617/blob/main/Screenshots/source-code-with_junit.png
+
+
 ### Connect me via nguyenviminhloc@gmail.com
 #### Copyright &#169; envymilo
