@@ -7,4 +7,4 @@
 * ...
 
 ### Connect me via nguyenviminhloc@gmail.com
-#### Copyright &$169 envymilo
+#### Copyright &#169 envymilo
